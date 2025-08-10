@@ -2,5 +2,6 @@
   "_base": "https://raw.githubusercontent.com/Khara53/samples_2/main/",
   "myKick": "kick.wav",
   "mySnare": "snare.wav",
-  "myHh": "hh.wav"
+  "myHh": "hh.wav",
+  "myPad_1": "pad_1.aif"
 }
